@@ -1,0 +1,415 @@
+source,target,type
+Corentin Tolisso,Benjamin Pavard,directed
+Corentin Tolisso,Raphaël Varane,directed
+Raphaël Varane,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Hugo Lloris,directed
+Hugo Lloris,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Hugo Lloris,directed
+Hugo Lloris,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Antoine Griezmann,directed
+Antoine Griezmann,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Kylian Mbappé Lottin,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Ousmane Dembélé,directed
+Ousmane Dembélé,Raphaël Varane,directed
+Raphaël Varane,Corentin Tolisso,directed
+Corentin Tolisso,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Kylian Mbappé Lottin,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Ousmane Dembélé,directed
+Ousmane Dembélé,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Ousmane Dembélé,directed
+Paul Pogba,Antoine Griezmann,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,N''Golo Kanté,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Antoine Griezmann,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+N''Golo Kanté,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Hugo Lloris,directed
+Hugo Lloris,Benjamin Pavard,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Raphaël Varane,directed
+Raphaël Varane,Antoine Griezmann,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,N''Golo Kanté,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Paul Pogba,Antoine Griezmann,directed
+Benjamin Pavard,Paul Pogba,directed
+Paul Pogba,Corentin Tolisso,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Ousmane Dembélé,directed
+Hugo Lloris,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Hugo Lloris,Corentin Tolisso,directed
+Corentin Tolisso,Raphaël Varane,directed
+Raphaël Varane,Corentin Tolisso,directed
+Corentin Tolisso,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Ousmane Dembélé,directed
+Ousmane Dembélé,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Ousmane Dembélé,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Hugo Lloris,directed
+Hugo Lloris,Benjamin Pavard,directed
+Samuel Yves Umtiti,Ousmane Dembélé,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Hugo Lloris,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Antoine Griezmann,directed
+N''Golo Kanté,Ousmane Dembélé,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Paul Pogba,Benjamin Pavard,directed
+Raphaël Varane,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Ousmane Dembélé,directed
+Ousmane Dembélé,Paul Pogba,directed
+Paul Pogba,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Corentin Tolisso,directed
+Corentin Tolisso,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Paul Pogba,directed
+Paul Pogba,Ousmane Dembélé,directed
+Ousmane Dembélé,Kylian Mbappé Lottin,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Raphaël Varane,directed
+Raphaël Varane,Antoine Griezmann,directed
+Raphaël Varane,Hugo Lloris,directed
+Kylian Mbappé Lottin,Benjamin Pavard,directed
+Benjamin Pavard,N''Golo Kanté,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Antoine Griezmann,directed
+Antoine Griezmann,Lucas Hernández Pi,directed
+N''Golo Kanté,Antoine Griezmann,directed
+Antoine Griezmann,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Paul Pogba,Benjamin Pavard,directed
+Benjamin Pavard,Kylian Mbappé Lottin,directed
+Corentin Tolisso,Antoine Griezmann,directed
+Paul Pogba,Corentin Tolisso,directed
+Corentin Tolisso,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Kylian Mbappé Lottin,directed
+N''Golo Kanté,Kylian Mbappé Lottin,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+N''Golo Kanté,Antoine Griezmann,directed
+Antoine Griezmann,Corentin Tolisso,directed
+Paul Pogba,Corentin Tolisso,directed
+Corentin Tolisso,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Antoine Griezmann,directed
+Antoine Griezmann,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Ousmane Dembélé,directed
+Ousmane Dembélé,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,Raphaël Varane,directed
+Raphaël Varane,Hugo Lloris,directed
+Hugo Lloris,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Antoine Griezmann,directed
+Kylian Mbappé Lottin,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Raphaël Varane,directed
+Corentin Tolisso,Kylian Mbappé Lottin,directed
+Lucas Hernández Pi,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Raphaël Varane,Benjamin Pavard,directed
+Lucas Hernández Pi,N''Golo Kanté,directed
+N''Golo Kanté,Raphaël Varane,directed
+Raphaël Varane,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Benjamin Pavard,Ousmane Dembélé,directed
+Ousmane Dembélé,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Corentin Tolisso,directed
+Corentin Tolisso,Antoine Griezmann,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Corentin Tolisso,directed
+Corentin Tolisso,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Ousmane Dembélé,directed
+Samuel Yves Umtiti,Hugo Lloris,directed
+Hugo Lloris,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Raphaël Varane,N''Golo Kanté,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Hugo Lloris,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Corentin Tolisso,directed
+Corentin Tolisso,Lucas Hernández Pi,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Ousmane Dembélé,directed
+Corentin Tolisso,Antoine Griezmann,directed
+Hugo Lloris,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Ousmane Dembélé,directed
+Ousmane Dembélé,Paul Pogba,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Corentin Tolisso,directed
+Paul Pogba,Kylian Mbappé Lottin,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Paul Pogba,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Benjamin Pavard,Hugo Lloris,directed
+Hugo Lloris,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Ousmane Dembélé,directed
+Lucas Hernández Pi,Hugo Lloris,directed
+Hugo Lloris,Benjamin Pavard,directed
+Benjamin Pavard,Ousmane Dembélé,directed
+Ousmane Dembélé,Benjamin Pavard,directed
+Raphaël Varane,Ousmane Dembélé,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Antoine Griezmann,directed
+N''Golo Kanté,Antoine Griezmann,directed
+Antoine Griezmann,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Antoine Griezmann,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Antoine Griezmann,directed
+Hugo Lloris,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Paul Pogba,directed
+Paul Pogba,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Antoine Griezmann,directed
+Antoine Griezmann,Paul Pogba,directed
+Paul Pogba,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Ousmane Dembélé,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+Raphaël Varane,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Benjamin Pavard,Ousmane Dembélé,directed
+Raphaël Varane,Hugo Lloris,directed
+Hugo Lloris,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Lucas Hernández Pi,directed
+Samuel Yves Umtiti,Corentin Tolisso,directed
+Corentin Tolisso,Nabil Fekir,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Paul Pogba,directed
+Paul Pogba,N''Golo Kanté,directed
+N''Golo Kanté,Paul Pogba,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Corentin Tolisso,Nabil Fekir,directed
+Nabil Fekir,Corentin Tolisso,directed
+Corentin Tolisso,Nabil Fekir,directed
+N''Golo Kanté,Benjamin Pavard,directed
+Benjamin Pavard,Corentin Tolisso,directed
+Corentin Tolisso,Paul Pogba,directed
+N''Golo Kanté,Paul Pogba,directed
+Paul Pogba,Nabil Fekir,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,N''Golo Kanté,directed
+N''Golo Kanté,Corentin Tolisso,directed
+Corentin Tolisso,Olivier Giroud,directed
+Paul Pogba,Blaise Matuidi,directed
+Blaise Matuidi,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Nabil Fekir,directed
+Nabil Fekir,Benjamin Pavard,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Paul Pogba,directed
+Paul Pogba,Raphaël Varane,directed
+Raphaël Varane,Benjamin Pavard,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Blaise Matuidi,directed
+Blaise Matuidi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Blaise Matuidi,directed
+Blaise Matuidi,Paul Pogba,directed
+Paul Pogba,Benjamin Pavard,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Kylian Mbappé Lottin,directed
+Olivier Giroud,Kylian Mbappé Lottin,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Paul Pogba,directed
+Paul Pogba,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Paul Pogba,directed
+Paul Pogba,Olivier Giroud,directed
+Olivier Giroud,Paul Pogba,directed
+Nabil Fekir,N''Golo Kanté,directed
+N''Golo Kanté,Blaise Matuidi,directed
+Kylian Mbappé Lottin,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,N''Golo Kanté,directed
+N''Golo Kanté,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,N''Golo Kanté,directed
+N''Golo Kanté,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Blaise Matuidi,directed
+Blaise Matuidi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Nabil Fekir,directed
+Paul Pogba,Blaise Matuidi,directed
+Blaise Matuidi,Kylian Mbappé Lottin,directed
+Nabil Fekir,Paul Pogba,directed
+Samuel Yves Umtiti,Blaise Matuidi,directed
+Blaise Matuidi,Lucas Hernández Pi,directed
+Raphaël Varane,Nabil Fekir,directed
+Nabil Fekir,Benjamin Pavard,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Lucas Hernández Pi,directed
+Lucas Hernández Pi,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,N''Golo Kanté,directed
+N''Golo Kanté,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Olivier Giroud,directed
+Olivier Giroud,Lucas Hernández Pi,directed
+Nabil Fekir,Paul Pogba,directed
+Raphaël Varane,Samuel Yves Umtiti,directed
+Samuel Yves Umtiti,Raphaël Varane,directed
+Raphaël Varane,Nabil Fekir,directed
+N''Golo Kanté,Blaise Matuidi,directed
+Blaise Matuidi,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Blaise Matuidi,directed
+N''Golo Kanté,Kylian Mbappé Lottin,directed
+Kylian Mbappé Lottin,Nabil Fekir,directed
+Nabil Fekir,Paul Pogba,directed
+Nabil Fekir,Lucas Hernández Pi,directed
+Benjamin Pavard,Raphaël Varane,directed
+Raphaël Varane,Nabil Fekir,directed
+Nabil Fekir,Raphaël Varane,directed
+Nabil Fekir,Benjamin Pavard,directed
+Kylian Mbappé Lottin,Blaise Matuidi,directed
+Paul Pogba,Lucas Hernández Pi,directed
