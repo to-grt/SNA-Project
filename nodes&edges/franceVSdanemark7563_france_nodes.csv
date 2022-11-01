@@ -1,15 +1,15 @@
-id,label
-Steven N''Kemboanza Mike Christopher Nzonzi,Nzonzi
-Raphaël Varane,Varane
-Djibril Sidibé,Sidibé
-Presnel Kimpembe,Kimpembe
-Lucas Hernández Pi,Hernández(s50)
-Thomas Lemar,Lemar
-N''Golo Kanté,Kanté
-Ousmane Dembélé,Dembélé(s78)
-Steve Mandanda,Mandanda
-Antoine Griezmann,Griezmann(s68)
-Olivier Giroud,Giroud
-Benjamin Mendy,Mendy(s50)
-Nabil Fekir,Fekir(e68)
-Kylian Mbappé Lottin,Mbappé(e78)
+id,label,lattitude,longitude
+Steven N''Kemboanza Mike Christopher Nzonzi,Nzonzi,68,31
+Raphaël Varane,Varane,49,57
+Djibril Sidibé,Sidibé,70,73
+Presnel Kimpembe,Kimpembe,52,22
+Lucas Hernández Pi,Hernández(s50),76,7
+Thomas Lemar,Lemar,82,17
+N''Golo Kanté,Kanté,66,47
+Ousmane Dembélé,Dembélé(s78),78,60
+Steve Mandanda,Mandanda,13,40
+Antoine Griezmann,Griezmann(s68),75,37
+Olivier Giroud,Giroud,80,47
+Benjamin Mendy,Mendy(s50),76,4
+Nabil Fekir,Fekir(e68),84,50
+Kylian Mbappé Lottin,Mbappé(e78),95,55

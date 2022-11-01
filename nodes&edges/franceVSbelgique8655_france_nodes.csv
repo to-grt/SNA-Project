@@ -1,14 +1,14 @@
-id,label
-Raphaël Varane,Varane
-Benjamin Pavard,Pavard
-Kylian Mbappé Lottin,Mbappé
-Samuel Yves Umtiti,Umtiti
-Lucas Hernández Pi,Hernández
-Paul Pogba,Pogba
-N''Golo Kanté,Kanté
-Hugo Lloris,Lloris
-Blaise Matuidi,Matuidi(s86)
-Antoine Griezmann,Griezmann
-Olivier Giroud,Giroud(s85)
-Steven N''Kemboanza Mike Christopher Nzonzi,Nzonzi(e85)
-Corentin Tolisso,Tolisso(e86)
+id,label,lattitude,longitude
+Raphaël Varane,Varane,43,56
+Benjamin Pavard,Pavard,64,70
+Kylian Mbappé Lottin,Mbappé,79,67
+Samuel Yves Umtiti,Umtiti,42,23
+Lucas Hernández Pi,Hernández,68,9
+Paul Pogba,Pogba,63,52
+N''Golo Kanté,Kanté,55,34
+Hugo Lloris,Lloris,12,37
+Blaise Matuidi,Matuidi(s86),62,17
+Antoine Griezmann,Griezmann,76,39
+Olivier Giroud,Giroud(s85),72,33
+Steven N''Kemboanza Mike Christopher Nzonzi,Nzonzi(e85),57,31
+Corentin Tolisso,Tolisso(e86),87,29
